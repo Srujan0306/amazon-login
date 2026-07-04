@@ -1,0 +1,1 @@
+Printing "Hello World" is often the first program when learning a new language. It demonstrates how to output text to the console or display and confirms that the development environment is configured correctly.git
